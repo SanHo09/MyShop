@@ -1,0 +1,14 @@
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\obj\Debug\net6.0\EShop.DataAccessor.csproj.AssemblyReference.cache
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\obj\Debug\net6.0\EShop.DataAccessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\obj\Debug\net6.0\EShop.DataAccessor.AssemblyInfoInputs.cache
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\obj\Debug\net6.0\EShop.DataAccessor.AssemblyInfo.cs
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\obj\Debug\net6.0\EShop.DataAccessor.csproj.CoreCompileInputs.cache
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\bin\Debug\net6.0\EShop.DataAccessor.deps.json
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\bin\Debug\net6.0\EShop.DataAccessor.runtimeconfig.json
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\bin\Debug\net6.0\EShop.DataAccessor.dll
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\bin\Debug\net6.0\EShop.DataAccessor.pdb
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\obj\Debug\net6.0\EShop.DataAccessor.dll
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\obj\Debug\net6.0\refint\EShop.DataAccessor.dll
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\obj\Debug\net6.0\EShop.DataAccessor.pdb
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\obj\Debug\net6.0\EShop.DataAccessor.genruntimeconfig.cache
+C:\Users\sang.phamvinh\OneDrive - NASHTECH\Desktop\MyProject\EShop\EShop.DataAccessor\obj\Debug\net6.0\ref\EShop.DataAccessor.dll
