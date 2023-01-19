@@ -1,5 +1,5 @@
-# This is my ecommerce shop for learning purpose
-- Using .NET6, ASP.NET Core, Entity Framework Core
+# This is my eCommerce shop for learning purposes
+- Using.NET6, ASP.NET Core, Entity Framework Core
 - Apply Clean Architecture, Repository, Unit of work pattern
 - React, TypeScript, Redux
 - Microsoft SQL 2014
